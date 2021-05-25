@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  simple_plotting: simple_plotting.html
+last_built: 2021-07-10T05:38Z
+urls:
+  reference: https://docs.ropensci.org/c14bazAAR/reference
+  article: https://docs.ropensci.org/c14bazAAR/articles
+

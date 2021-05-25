@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "19b3d8bd9046212caf7d125a5d88a2f92ca3ce4c",
+    "author": "Clemens Schmid <clemens@nevrome.de>",
+    "time": "2021-05-25 11:05:39",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "remote": "https://github.com/ropensci/c14bazAAR",
+  "pkg": "c14bazAAR"
+}
