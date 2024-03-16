@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5c516028fb308af63695bd52773afc19228e3ff1",
+    "author": "Clemens Schmid <clemens@nevrome.de>",
+    "time": "2024-01-16 14:48:16",
+    "files": 1,
+    "merge": false,
+    "message": "updae of codemeta.json\n"
+  },
+  "repo": "https://github.com/ropensci/c14bazAAR",
+  "pkg": "c14bazAAR"
+}
