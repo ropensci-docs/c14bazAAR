@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8e06055a8e4c915de476b789e068462c64e73763",
+    "author": "Clemens Schmid <clemens@nevrome.de>",
+    "time": "2026-08-10T18:52:59Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #172 from ropensci/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7"
+  },
+  "repo": "https://github.com/ropensci/c14bazAAR",
+  "pkg": "c14bazAAR",
+  "time": "2026-09-09T10:14:50Z"
+}
